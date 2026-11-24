@@ -1,0 +1,11 @@
+{
+  "students": [
+    {"id": 1, "name": "Иванов Иван", "group": "ИДБ-25-14"}
+  ],
+  "courses": [
+    {"id": 1, "title": "Прикладное программирование", "hours": 72}
+  ],
+  "enrollments": [
+    {"id": 1, "student_id": 1, "course_id": 1, "grade": 5}
+  ]
+}
